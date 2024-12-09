@@ -17,5 +17,12 @@
 ## ⭐ Inspired by:
 Huge thanks to Hydra Launcher, this project was entirely made for study purposes and highly inspired by Hydra Launcher, you can check their repository [right here](https://github.com/hydralauncher)!
 
+### Disclaimer:
+1. This repository is intended solely for educational and research purposes. It provides scripts and tools that facilitate the downloading of torrents and JSON files, specifically from FitGirl Repack, which are freely available in the public domain.
+2. By using this repository, you acknowledge that you are responsible for ensuring compliance with local laws and regulations related to the use, distribution, and downloading of content. The creator of this repository does not hold any legal rights or obligations concerning the content accessed or downloaded using the provided tools.
+3. The use of this repository is at your own risk. I am not liable for any damages, data loss, or legal consequences resulting from its use.
+
+<b>I do not condone or encourage the use of this repository for any illegal activity.</b>
+
 ### License
 This project is mantained under [MIT License.](https://github.com/insxnsive/cli-torrent-indexer?tab=MIT-1-ov-file)
