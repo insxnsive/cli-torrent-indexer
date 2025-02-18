@@ -2,7 +2,7 @@
   "type": "module",
   "name": "torrent-cli",
   "version": "1.0.0",
-  "main": "main.mjs",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,7 @@
     "cli-progress": "^3.12.0",
     "inquirer": "^12.2.0",
     "node-html-parser": "^6.1.13",
+    "ora": "^8.2.0",
     "path": "^0.12.7",
     "readline": "^1.3.0",
     "webtorrent": "^2.5.10"
