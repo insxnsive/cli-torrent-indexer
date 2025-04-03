@@ -1,3 +1,3 @@
 @echo off
-npm i
+npm i < packages.txt
 pause
